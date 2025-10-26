@@ -1,0 +1,64 @@
+# 📚 Library Management System
+*A Core Java project based on Object-Oriented Programming and Collection Frameworks.*
+
+---
+
+### 🔍 Overview
+A mini-library application demonstrating how real-world entities like **books**, **users**, and **records** can be modeled in Java. It’s built entirely on **OOP concepts** and **Collection Frameworks**, keeping the design clean, dynamic, and object-based — no static clutter.
+
+---
+
+### 🧠 Core Concepts
+- **Encapsulation**: Each class controls its own data through getters/setters.
+- **Inheritance**: Common properties shared across classes like `Book` and `User`.
+- **Polymorphism**: Unified interface for library operations.
+- **Abstraction**: Simplified structure for clarity and scalability.
+
+And the **Collection Framework** plays librarian:
+- `List` keeps track of books and users.
+- `Map` links users with their borrowed books.
+- `Set` ensures no duplicate entries ruin your catalog.
+
+---
+
+### ⚙️ Features
+- Add, borrow, and return books dynamically
+- Track users and their activity
+- Maintain live book records
+- Avoid duplicates
+- Object-based (no static fields, no database dependency)
+
+---
+
+### 🧩 Project Structure
+```
+LibraryManagementSystem/
+│
+├── src/
+│   ├── Book.java
+│   ├── User.java
+│   ├── Library.java
+│   ├── Main.java
+│   └── Utils/
+│
+├── README.md
+└── LICENSE
+```
+
+---
+
+### 💻 Technologies
+- **Language:** Java
+- **Concepts:** OOP, Collection Frameworks
+---
+
+### 🚀 How to Run
+1. Open in your IDE (Eclipse, IntelliJ IDEA, or VS Code).
+2. Run `Testing.java`.
+3. Use the console to interact with your virtual library.
+
+---
+
+This project is done my JavaPerson1 / Programmer12m 
+Core Java Dev (currenly Learning)!
+Thanks
